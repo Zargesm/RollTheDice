@@ -1,0 +1,14 @@
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/bin/Debug/net10.0/RollTheDice
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/bin/Debug/net10.0/RollTheDice.deps.json
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/bin/Debug/net10.0/RollTheDice.runtimeconfig.json
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/bin/Debug/net10.0/RollTheDice.dll
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/bin/Debug/net10.0/RollTheDice.pdb
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.AssemblyInfoInputs.cache
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.AssemblyInfo.cs
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.csproj.CoreCompileInputs.cache
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.dll
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/refint/RollTheDice.dll
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.pdb
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.genruntimeconfig.cache
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/ref/RollTheDice.dll
