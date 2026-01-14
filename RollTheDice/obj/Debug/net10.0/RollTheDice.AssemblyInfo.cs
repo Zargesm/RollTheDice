@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RollTheDice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8435b8909404743ef4aa3424a78c6713ea7df51")]
 [assembly: System.Reflection.AssemblyProductAttribute("RollTheDice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RollTheDice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

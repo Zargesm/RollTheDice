@@ -12,3 +12,4 @@
 /Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.pdb
 /Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.genruntimeconfig.cache
 /Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/ref/RollTheDice.dll
+/Users/masonzarges/RiderProjects/RollTheDice/RollTheDice/obj/Debug/net10.0/RollTheDice.sourcelink.json
